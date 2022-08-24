@@ -1,6 +1,4 @@
-# Imersão Full Stack & FullCycle - Codebank
-
-## Descrição
+# Descrição
 
 Repositório do Apache Kafka (Backend)
 

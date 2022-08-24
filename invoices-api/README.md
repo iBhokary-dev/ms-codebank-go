@@ -1,8 +1,7 @@
 [<img src="../img/nestjs.svg" width="72"/>](Nest.js)
 
-# Imersão Full Stack & FullCycle 9.0 - Codebank - Back-end das faturas
 
-## Descrição
+# Descrição
 
 Repositório do back-end das faturas (Code Invoice) feito com Nest.js
 

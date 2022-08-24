@@ -1,8 +1,6 @@
 ![Next.js](../img/nextjs.png)
 
-# Imersão Full Stack & FullCycle 9.0 - Codebank - Front-end da loja
-
-## Descrição
+# Descrição
 
 Repositório do front-end da loja (Code Store) feito com Next.js
 

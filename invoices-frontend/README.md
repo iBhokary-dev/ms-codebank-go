@@ -1,8 +1,6 @@
 ![Next.js](../img/nextjs.png)
 
-# Imersão Full Stack & FullCycle 9.0 - Codebank - Front-end das faturas
-
-## Descrição
+# Descrição
 
 Repositório do front-end das faturas (Code Invoice) feito com Next.js
 
